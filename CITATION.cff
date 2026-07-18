@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, alongside the original PlantVillage dataset papers referenced in README.md."
+title: "PlantAIResearch: Evaluating the Robustness of Modern Deep Learning Models to Image Quality Degradation in Plant Disease Diagnosis from Leaf Photographs"
+type: software
+authors:
+  - name: "<Your Name>"
+repository-code: "https://github.com/<your-username>/PlantAIResearch"
+license: MIT
+version: 1.0.0
+date-released: "2026-07-17"
+keywords:
+  - plant disease classification
+  - image corruption robustness
+  - deep learning
+  - convolutional neural networks
+  - vision transformers
+  - PlantVillage
