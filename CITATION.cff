@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below, alongside the origi
 title: "PlantAIResearch: Evaluating the Robustness of Modern Deep Learning Models to Image Quality Degradation in Plant Disease Diagnosis from Leaf Photographs"
 type: software
 authors:
-  - name: "<Your Name>"
-repository-code: "https://github.com/<your-username>/PlantAIResearch"
+  - name: "Gor Asatryan"
+repository-code: "https://github.com/gorasatryanGH/PlantAIResearch"
 license: MIT
 version: 1.0.0
 date-released: "2026-07-17"
