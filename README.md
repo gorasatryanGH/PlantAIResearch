@@ -101,7 +101,7 @@ imported by any script — all four architectures are built directly from
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/PlantAIResearch.git
+git clone https://github.com/gorasatryanGH/PlantAIResearch.git
 cd PlantAIResearch
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
